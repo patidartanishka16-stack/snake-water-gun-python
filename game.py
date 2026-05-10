@@ -1,9 +1,4 @@
 '''
-Snake drinks Water → Snake wins
-Water destroys Gun → Water wins
-Gun kills Snake → Gun wins
-'''
-'''
 snake = -1
 water = 1
 gun = 0
